@@ -1,0 +1,39 @@
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+nupkg/
+
+# Visual Studio Code
+.vscode
+
+#Rider
+.idea
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+build/
+[Bb]in/
+[Oo]bj/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio 2015
+.vs/
+/src/PrbApollo.Functions/local.settings.json
+Test/PrbApollo.Domain.Test/coverage.json
+/src/PrbApollo.Function/Properties/PublishProfiles/prbfunctionboletadordev - Web Deploy1.pubxml
